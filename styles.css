@@ -2,6 +2,10 @@ body {
     background-color: #ccc;
 }
 
+.title {
+    text-align: center;
+}
+
 .selections {
     display: flex;
     justify-content: center;
